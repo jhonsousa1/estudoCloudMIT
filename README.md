@@ -1,2 +1,2 @@
 # estudoCloudMIT
-Repositório para o curso cloud &amp; devops - MIT
+Repositório para estudo do curso cloud &amp; devops - MIT
